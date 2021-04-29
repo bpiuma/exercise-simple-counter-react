@@ -21,6 +21,8 @@
 		"@babel/preset-env": "^7.12.13",
 		"@babel/preset-react": "^7.12.13",
 		"@babel/runtime": "^7.12.13",
+		"@iconify-icons/il": "^1.1.0",
+		"@iconify/react": "^1.1.4",
 		"babel-eslint": "^10.1.0",
 		"babel-loader": "^8.2.2",
 		"babel-plugin-transform-class-properties": "^6.24.1",
@@ -61,6 +63,9 @@
 		]
 	},
 	"dependencies": {
+		"@fortawesome/fontawesome-svg-core": "^1.2.35",
+		"@fortawesome/free-solid-svg-icons": "^5.15.3",
+		"@fortawesome/react-fontawesome": "^0.1.14",
 		"bootstrap": "^4.6.0",
 		"jquery": "^3.5.1",
 		"popper.js": "^1.16.1",
